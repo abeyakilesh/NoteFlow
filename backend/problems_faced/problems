@@ -1,24 +1,8 @@
-# 🚀 MongoDB Atlas Setup & Debugging Journey (MERN Stack)
+# MongoDB Atlas Setup & Debugging Journey (MERN Stack)
 
 Project: Mern-Notes  
 Developer: Abey  
 Phase: Backend → MongoDB Atlas Connection  
-
-------------------------------------------------------------
-1️⃣ Problem: Wrong Terminal Commands
-------------------------------------------------------------
-
-Error:
-Unknown command: "runn"
-zsh: command not found: run
-
-Cause:
-Typo while running npm scripts.
-
-Fix:
-Use correct command:
-npm run dev
-
 
 ------------------------------------------------------------
 2️⃣ Problem: Nodemon Restart Loop
@@ -195,7 +179,7 @@ MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/notesdb?retryWrite
 
 
 ------------------------------------------------------------
-🧠 Key Concepts Learned
+Key Concepts Learned
 ------------------------------------------------------------
 
 - What MongoDB Atlas is
@@ -213,11 +197,11 @@ MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/notesdb?retryWrite
 🏁 Current Status
 ------------------------------------------------------------
 
-✅ MongoDB Atlas connected successfully  
-✅ Backend running on port 5001  
-✅ Environment variables secured  
-✅ Credentials removed from GitHub  
-✅ IP access configured properly  
+MongoDB Atlas connected successfully  
+ Backend running on port 5001  
+ Environment variables secured  
+ Credentials removed from GitHub  
+ IP access configured properly  
 
 ------------------------------------------------------------
 
